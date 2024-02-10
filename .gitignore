@@ -40,3 +40,19 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### example ignore file from lesson https://github.com/hexlet-boilerplates/java-package/blob/main/.gitignore
+## Ignore Gradle project-specific cache directory
+#.gradle
+#
+## Ignore Gradle build output directory
+#build
+#
+#**/logs/
+#
+#.settings
+#bin
+#.project*
+#.classpath
+#.idea/
+#.factorypath
